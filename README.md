@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # cypto-tracker
+=======
+>>>>>>> 952f902 (Added Source Code)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -7,6 +10,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<<<<<<< HEAD
 
 ## Table of Contents
 
@@ -49,3 +53,5 @@ Constant Updates: The site constantly updates to provide the latest market trend
 For any questions or support, please contact [arvindpathak015@gmail.com].
 
 
+=======
+>>>>>>> 952f902 (Added Source Code)
